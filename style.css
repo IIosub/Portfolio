@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(218, 174, 118);
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+p {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}
